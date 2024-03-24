@@ -1,6 +1,6 @@
 <div align="center"><a name="readme-top"></a>
 
-<img height="160" src="https://registry.npmmirror.com/@lobehub/assets-logo/1.0.0/files/assets/logo-3d.webp">
+<img height="160" src="https://raw.githubusercontent.com/kingsznhone/kingsznhone/main/header.png">
 
 <h1>Hi there, I'm 🤣👉🤡ZNH</h1>
 
