@@ -1,6 +1,6 @@
 <div align="center"><a name="readme-top"></a>
 
-<img height="160" src="https://raw.githubusercontent.com/kingsznhone/kingsznhone/main/header.png">
+<img src="https://raw.githubusercontent.com/kingsznhone/kingsznhone/main/header.png">
 
 <h1>Hi there, I'm 🤣👉🤡ZNH</h1>
 
