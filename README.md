@@ -4,12 +4,12 @@
 
 <h1>Hi there, I'm 🤣👉🤡ZNH</h1>
 
-Full Stack Developer interested in multiple directions. 
+A Internet Fundamentalists. Full Stack Developer interested in multiple directions. 
 
 
 [![][github-follower-sheild]][github-follower-link]
 [![][github-star-sheild]][github-star-link]
-[![][bili-follower-sheild]][bili-follower-link]
+[![][bilibili-shield]][bilibili-link]
 
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -23,19 +23,62 @@ Full Stack Developer interested in multiple directions.
 | :-------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![][h-framework]| ![][framework-aspdotnet] ![][framework-wpf] ![][framework-bootstrap] ![][framework-vue] ![][framework-torch]  ![][framework-wordpress]                                   |
 | ![][h-ide]      | ![][ide-visualstudio] ![][ide-vscode]  ![][ide-pycharm]  ![][ide-unity]                                                                                                  |
-| ![][h-os]       | ![][os-win] ![][os-wsl] ![][os-ubuntu] ![][os-kali]                                                                                                                      |
+| ![][h-os]       | ![][os-win] ![][os-wsl] ![][os-hyperv] ![][os-ubuntu] ![][os-kali]                                                                                                                      |
 | ![][h-shell]    | ![][shell-terminal] ![][shell-bash]                                                                                                                                      |
-| ![][h-other]    | ![][other-chatgpt] ![][other-azure] ![][other-nginx] ![][other-cloudflare] ![][other-gee] ![][other-x64dbg]  ![][other-ida]                                              |
 | ![][h-database] |  ![][database-sqlite] ![][database-sqlserver] ![][database-mysql] ![][database-mariadb]                                                                                  |
+| ![][h-other]    | ![][other-chatgpt] ![][other-azure] ![][other-huggingface] ![][other-nginx] ![][other-cloudflare] ![][other-gee] ![][other-x64dbg]  ![][other-ida]                                              |
+
+### ⭐️ Projects
+| [**🖼️ Electrical Weathering**][electrical-weathering-stars-link]<br/> A weared meme like a medal. An internet veteran medal. <br/><br/> [![][electrical-weathering-stars-shield]][electrical-weathering-stars-link] [![][electrical-weathering-license-shield]][electrical-weathering-license-link] [![][electrical-weathering-release-shield]][electrical-weathering-release-link] [![][electrical-weathering-releasedate-shield]][electrical-weathering-releasedate-link] [![][electrical-weathering-downloads-shield]][electrical-weathering-downloads-link] | [![][electrical-weathering-cover]][electrical-weathering-stars-link]   |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
+| [**🌎 VSOP2013.NET**][vsop2013-stars-link]<br/> VSOP2013 Library For .NET Package. (NuGet, DLL) Highly Optimized and OOP <br/><br/>[![][vsop2013-stars-shield]][vsop2013-stars-link] [![][vsop2013-license-shield]][vsop2013-license-link] [![][vsop2013-release-shield]][vsop2013-release-link] [![][vsop2013-releasedate-shield]][vsop2013-releasedate-link] [![][vsop2013-downloads-shield]][vsop2013-downloads-link] | [![][vsop2013-cover]][vsop2013-stars-link] |
+| [**🎶 NCMDump.NET**][vsop2013-stars-link]<br/> Decipher .ncm file to mp3 & flac <br/><br/>[![][ncmdump-stars-shield]][ncmdump-stars-link] [![][ncmdump-license-shield]][ncmdump-license-link] [![][ncmdump-release-shield]][ncmdump-release-link] [![][ncmdump-releasedate-shield]][ncmdump-releasedate-link] [![][ncmdump-downloads-shield]][ncmdump-downloads-link] | [![][ncmdump-cover]][vsop2013-stars-link] |
 
 
+[electrical-weathering-cover]: https://raw.githubusercontent.com/kingsznhone/Electrical-Weathering/master/WeatheringSkia.png
+[electrical-weathering-stars-shield]: https://img.shields.io/github/stars/kingsznhone/Electrical-Weathering?color=ffcb47&labelColor=black&style=flat-square
+[electrical-weathering-stars-link]: https://github.com/kingsznhone/Electrical-Weathering/network/stargazers
+[electrical-weathering-license-shield]: https://img.shields.io/github/license/kingsznhone/Electrical-Weathering?color=white&labelColor=black&style=flat-square
+[electrical-weathering-license-link]: https://github.com/kingsznhone/Electrical-Weathering/blob/main/LICENSE
+[electrical-weathering-release-shield]: https://img.shields.io/github/v/release/kingsznhone/Electrical-Weathering?color=369eff&labelColor=black&logo=github&style=flat-square
+[electrical-weathering-release-link]: https://github.com/kingsznhone/Electrical-Weathering/releases
+[electrical-weathering-releasedate-shield]: https://img.shields.io/github/release-date/kingsznhone/Electrical-Weathering?labelColor=black&style=flat-square
+[electrical-weathering-releasedate-link]: https://github.com/kingsznhone/Electrical-Weathering/releases
+[electrical-weathering-downloads-shield]: https://img.shields.io/github/downloads/kingsznhone/Electrical-Weathering/total?labelColor=black&style=flat-square
+[electrical-weathering-downloads-link]: https://github.com/kingsznhone/Electrical-Weathering/releases
+
+[vsop2013-cover]: https://raw.githubusercontent.com/kingsznhone/VSOP2013.NET/main/Demo.png
+[vsop2013-stars-shield]: https://img.shields.io/github/stars/kingsznhone/vsop2013.net?color=ffcb47&labelColor=black&style=flat-square
+[vsop2013-stars-link]: https://github.com/kingsznhone/vsop2013.net/network/stargazers
+[vsop2013-license-shield]: https://img.shields.io/github/license/kingsznhone/vsop2013.net?color=white&labelColor=black&style=flat-square
+[vsop2013-license-link]: https://github.com/kingsznhone/vsop2013.net/blob/main/LICENSE
+[vsop2013-release-shield]: https://img.shields.io/github/v/release/kingsznhone/vsop2013.net?color=369eff&labelColor=black&logo=github&style=flat-square
+[vsop2013-release-link]: https://github.com/kingsznhone/vsop2013.net/releases
+[vsop2013-releasedate-shield]: https://img.shields.io/github/release-date/kingsznhone/vsop2013.net?labelColor=black&style=flat-square
+[vsop2013-releasedate-link]: https://github.com/kingsznhone/vsop2013.net/releases
+[vsop2013-downloads-shield]: https://img.shields.io/github/downloads/kingsznhone/vsop2013.net/total?labelColor=black&style=flat-square
+[vsop2013-downloads-link]: https://github.com/kingsznhone/vsop2013.net/releases
+
+[ncmdump-cover]: https://raw.githubusercontent.com/kingsznhone/NCMDump.NET/main/Demo/light.png
+[ncmdump-stars-shield]: https://img.shields.io/github/stars/kingsznhone/ncmdump.net?color=ffcb47&labelColor=black&style=flat-square
+[ncmdump-stars-link]: https://github.com/kingsznhone/ncmdump.net/network/stargazers
+[ncmdump-license-shield]: https://img.shields.io/github/license/kingsznhone/ncmdump.net?color=white&labelColor=black&style=flat-square
+[ncmdump-license-link]: https://github.com/kingsznhone/ncmdump.net/blob/main/LICENSE
+[ncmdump-release-shield]: https://img.shields.io/github/v/release/kingsznhone/ncmdump.net?color=369eff&labelColor=black&logo=github&style=flat-square
+[ncmdump-release-link]: https://github.com/kingsznhone/ncmdump.net/releases
+[ncmdump-releasedate-shield]: https://img.shields.io/github/release-date/kingsznhone/ncmdump.net?labelColor=black&style=flat-square
+[ncmdump-releasedate-link]: https://github.com/kingsznhone/ncmdump.net/releases
+[ncmdump-downloads-shield]: https://img.shields.io/github/downloads/kingsznhone/ncmdump.net/total?labelColor=black&style=flat-square
+[ncmdump-downloads-link]: https://github.com/kingsznhone/ncmdump.net/releases
 
 [github-follower-sheild]: https://img.shields.io/github/followers/kingsznhone?logo=github&style=flat-square
 [github-follower-link]: https://github.com/kingsznhone
 [github-star-sheild]: https://img.shields.io/github/stars/kingsznhone?affiliations=OWNER&logo=github&style=flat-square
 [github-star-link]: https://github.com/kingsznhone
-[bili-follower-sheild]: https://bilistats.lonelyion.com/followers?uid=2853155&style=flat-square&label=followers
-[bili-follower-link]: https://space.bilibili.com/2853155
+
+
+[bilibili-shield]: https://bilistats.lonelyion.com/followers?color=fb7299&label=followers&label_color=black&logo_color=white&style=flat-square&uid=2853155
+[bilibili-link]: https://space.bilibili.com/2853155
 
 [h-framework]: https://img.shields.io/badge/-FRAMEWORK-000?style=flat-square&color=0069A8
 [h-devops]: https://img.shields.io/badge/-DEVOPS-000?style=flat-square&color=0069A8
@@ -64,6 +107,7 @@ Full Stack Developer interested in multiple directions.
 
 [os-ubuntu]: https://img.shields.io/badge/-Ubuntu-000?style=flat-square&logo=ubuntu&logoColor=ffffff&labelColor=e95420&color=e95420
 [os-wsl]: https://img.shields.io/badge/💻-WSL-000?style=flat-square&logoColor=ffffff&labelColor=d0e1f4&color=d0e1f4
+[os-hyperv]: https://img.shields.io/badge/Hyper--V-fff?style=flat-square&logo=windows10&logoColor=fff&labelColor=0078D6&color=0078D6
 [os-win]: https://img.shields.io/badge/-Windows-000?style=flat-square&logo=windows11&logoColor=1b66d6&labelColor=d0e1f4&color=d0e1f4
 [os-kali]: https://img.shields.io/badge/Kali-000?style=flat-square&logo=kalilinux&logoColor=ffffff&labelColor=557C94&color=557C94
 
@@ -73,6 +117,7 @@ Full Stack Developer interested in multiple directions.
 [ide-unity]: https://img.shields.io/badge/Unity-fff?style=flat-square&logo=unity&logoColor=ffffff&labelColor=000000&color=000000
 
 [other-chatgpt]: https://img.shields.io/badge/-ChatGPT-000?style=flat-square&logoColor=white&logo=openai
+[other-huggingface]: https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-fff?style=flat-square&labelColor=C4F8FF&color=C4F8FF
 [other-azure]: https://img.shields.io/badge/Azure-000?style=flat-square&logo=microsoftazure&logoColor=ffffff&labelColor=0078D4&color=0078D4
 [other-x64dbg]: https://img.shields.io/badge/🖥️-x64dbg-000?style=flat-square&labelColor=000000&color=000000
 [other-ida]: https://img.shields.io/badge/🖥️-IDA-000?style=flat-square&labelColor=000000&color=000000
@@ -85,6 +130,6 @@ Full Stack Developer interested in multiple directions.
 [database-mysql]: https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=ffffff&labelColor=4479A1&color=4479A1
 [database-mariadb]: https://img.shields.io/badge/MariaDB-000?style=flat-square&logo=mariadb&logoColor=ffffff&labelColor=003545&color=003545
 
-[shell-terminal]: https://img.shields.io/badge/-Windows_Terminal-000?style=flat-square&logo=windowsterminal&logoColor=ffffff&labelColor=4D4D4D&color=4D4D4D
+[shell-terminal]: https://img.shields.io/badge/Powershell-fff?style=flat-square&logo=powershell&logoColor=ffffff&labelColor=5391FE&color=5391FE
 [shell-bash]: https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash&logoColor=ffffff&labelColor=000000&color=000000
 
