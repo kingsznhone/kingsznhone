@@ -37,7 +37,7 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 [electrical-weathering-link]: https://github.com/kingsznhone/Electrical-Weathering
 [electrical-weathering-cover]: https://raw.githubusercontent.com/kingsznhone/Electrical-Weathering/master/WeatheringSkia.png
 [electrical-weathering-stars-shield]: https://img.shields.io/github/stars/kingsznhone/Electrical-Weathering?color=ffcb47&labelColor=black&style=flat-square
-[electrical-weathering-stars-link]: https://github.com/kingsznhone/Electrical-Weathering/network/stargazers
+[electrical-weathering-stars-link]: https://github.com/kingsznhone/Electrical-Weathering/stargazers
 [electrical-weathering-license-shield]: https://img.shields.io/github/license/kingsznhone/Electrical-Weathering?labelColor=black&style=flat-square
 [electrical-weathering-license-link]: https://github.com/kingsznhone/Electrical-Weathering/blob/main/LICENSE
 [electrical-weathering-release-shield]: https://img.shields.io/github/v/release/kingsznhone/Electrical-Weathering?color=369eff&labelColor=black&logo=github&style=flat-square
@@ -50,7 +50,7 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 [vsop2013-link]: https://github.com/kingsznhone/vsop2013.net
 [vsop2013-cover]: https://raw.githubusercontent.com/kingsznhone/VSOP2013.NET/main/Demo.png
 [vsop2013-stars-shield]: https://img.shields.io/github/stars/kingsznhone/vsop2013.net?color=ffcb47&labelColor=black&style=flat-square
-[vsop2013-stars-link]: https://github.com/kingsznhone/vsop2013.net/network/stargazers
+[vsop2013-stars-link]: https://github.com/kingsznhone/vsop2013.net/stargazers
 [vsop2013-license-shield]: https://img.shields.io/github/license/kingsznhone/vsop2013.net?labelColor=black&style=flat-square
 [vsop2013-license-link]: https://github.com/kingsznhone/vsop2013.net/blob/main/LICENSE
 [vsop2013-releasedate-shield]: https://img.shields.io/github/release-date/kingsznhone/vsop2013.net?labelColor=black&style=flat-square
@@ -63,7 +63,7 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 [ncmdump-link]: https://github.com/kingsznhone/ncmdump.net
 [ncmdump-cover]: https://raw.githubusercontent.com/kingsznhone/NCMDump.NET/main/README/light.png
 [ncmdump-stars-shield]: https://img.shields.io/github/stars/kingsznhone/ncmdump.net?color=ffcb47&labelColor=black&style=flat-square
-[ncmdump-stars-link]: https://github.com/kingsznhone/ncmdump.net/network/stargazers
+[ncmdump-stars-link]: https://github.com/kingsznhone/ncmdump.net/stargazers
 [ncmdump-license-shield]: https://img.shields.io/github/license/kingsznhone/ncmdump.net?labelColor=black&style=flat-square
 [ncmdump-license-link]: https://github.com/kingsznhone/ncmdump.net/blob/main/LICENSE
 [ncmdump-release-shield]: https://img.shields.io/github/v/release/kingsznhone/ncmdump.net?color=369eff&labelColor=black&logo=github&style=flat-square
