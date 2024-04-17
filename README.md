@@ -29,12 +29,12 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 | ![][h-other]    | ![][other-chatgpt] ![][other-azure] ![][other-huggingface] ![][other-nginx] ![][other-cloudflare] ![][other-gee] ![][other-x64dbg]  ![][other-ida]                                              |
 
 ### ⭐️ Projects
-| [**🖼️ Electrical Weathering**][electrical-weathering-stars-link]<br/> A weared meme like a medal. An internet veteran medal. <br/><br/> [![][electrical-weathering-stars-shield]][electrical-weathering-stars-link] [![][electrical-weathering-license-shield]][electrical-weathering-license-link] [![][electrical-weathering-release-shield]][electrical-weathering-release-link] [![][electrical-weathering-releasedate-shield]][electrical-weathering-releasedate-link] [![][electrical-weathering-downloads-shield]][electrical-weathering-downloads-link] | [![][electrical-weathering-cover]][electrical-weathering-stars-link]   |
+| [**🖼️ Electrical Weathering**][electrical-weathering-link]<br/> A weared meme like a medal. An internet veteran medal. <br/><br/> [![][electrical-weathering-stars-shield]][electrical-weathering-stars-link] [![][electrical-weathering-license-shield]][electrical-weathering-license-link] [![][electrical-weathering-release-shield]][electrical-weathering-release-link] [![][electrical-weathering-releasedate-shield]][electrical-weathering-releasedate-link] [![][electrical-weathering-downloads-shield]][electrical-weathering-downloads-link] | [![][electrical-weathering-cover]][electrical-weathering-stars-link]   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
-| [**🌎 VSOP2013.NET**][vsop2013-stars-link]<br/> VSOP2013 Library For .NET Package. (NuGet, DLL) Highly Optimized and OOP <br/><br/>[![][vsop2013-stars-shield]][vsop2013-stars-link] [![][vsop2013-license-shield]][vsop2013-license-link]  [![][vsop2013-releasedate-shield]][vsop2013-releasedate-link] [![][vsop2013-nuget-shield]][vsop2013-nuget-link] [![][vsop2013-downloads-shield]][vsop2013-downloads-link] | [![][vsop2013-cover]][vsop2013-stars-link] |
-| [**🎶 NCMDump.NET**][vsop2013-stars-link]<br/> Decipher .ncm file to mp3 & flac <br/><br/>[![][ncmdump-stars-shield]][ncmdump-stars-link] [![][ncmdump-license-shield]][ncmdump-license-link] [![][ncmdump-release-shield]][ncmdump-release-link] [![][ncmdump-releasedate-shield]][ncmdump-releasedate-link] [![][ncmdump-downloads-shield]][ncmdump-downloads-link] | [![][ncmdump-cover]][vsop2013-stars-link] |
+| [**🌎 VSOP2013.NET**][vsop2013-link]<br/> VSOP2013 Library For .NET Package. (NuGet, DLL) Highly Optimized and OOP <br/><br/>[![][vsop2013-stars-shield]][vsop2013-stars-link] [![][vsop2013-license-shield]][vsop2013-license-link]  [![][vsop2013-releasedate-shield]][vsop2013-releasedate-link] [![][vsop2013-nuget-shield]][vsop2013-nuget-link] [![][vsop2013-downloads-shield]][vsop2013-downloads-link] | [![][vsop2013-cover]][vsop2013-stars-link] |
+| [**🎶 NCMDump.NET**][ncmdump-link]<br/> Decipher .ncm file to mp3 & flac <br/><br/>[![][ncmdump-stars-shield]][ncmdump-stars-link] [![][ncmdump-license-shield]][ncmdump-license-link] [![][ncmdump-release-shield]][ncmdump-release-link] [![][ncmdump-releasedate-shield]][ncmdump-releasedate-link] [![][ncmdump-downloads-shield]][ncmdump-downloads-link] | [![][ncmdump-cover]][vsop2013-stars-link] |
 
-
+[electrical-weathering-link]: https://github.com/kingsznhone/Electrical-Weathering
 [electrical-weathering-cover]: https://raw.githubusercontent.com/kingsznhone/Electrical-Weathering/master/WeatheringSkia.png
 [electrical-weathering-stars-shield]: https://img.shields.io/github/stars/kingsznhone/Electrical-Weathering?color=ffcb47&labelColor=black&style=flat-square
 [electrical-weathering-stars-link]: https://github.com/kingsznhone/Electrical-Weathering/network/stargazers
@@ -47,6 +47,7 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 [electrical-weathering-downloads-shield]: https://img.shields.io/github/downloads/kingsznhone/Electrical-Weathering/total?labelColor=black&style=flat-square
 [electrical-weathering-downloads-link]: https://github.com/kingsznhone/Electrical-Weathering/releases
 
+[vsop2013-link]: https://github.com/kingsznhone/vsop2013.net
 [vsop2013-cover]: https://raw.githubusercontent.com/kingsznhone/VSOP2013.NET/main/Demo.png
 [vsop2013-stars-shield]: https://img.shields.io/github/stars/kingsznhone/vsop2013.net?color=ffcb47&labelColor=black&style=flat-square
 [vsop2013-stars-link]: https://github.com/kingsznhone/vsop2013.net/network/stargazers
@@ -59,7 +60,7 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 [vsop2013-downloads-shield]: https://img.shields.io/nuget/dt/VSOP2013.NET?style=flat-square&labelColor=000000
 [vsop2013-downloads-link]: https://www.nuget.org/packages/VSOP2013.NET/
 
-
+[ncmdump-link]: https://github.com/kingsznhone/ncmdump.net
 [ncmdump-cover]: https://raw.githubusercontent.com/kingsznhone/NCMDump.NET/main/README/light.png
 [ncmdump-stars-shield]: https://img.shields.io/github/stars/kingsznhone/ncmdump.net?color=ffcb47&labelColor=black&style=flat-square
 [ncmdump-stars-link]: https://github.com/kingsznhone/ncmdump.net/network/stargazers
