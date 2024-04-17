@@ -60,7 +60,7 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 [vsop2013-downloads-link]: https://www.nuget.org/packages/VSOP2013.NET/
 
 
-[ncmdump-cover]: https://raw.githubusercontent.com/kingsznhone/NCMDump.NET/main/README/Demo2.3.png
+[ncmdump-cover]: https://raw.githubusercontent.com/kingsznhone/NCMDump.NET/main/README/light.png
 [ncmdump-stars-shield]: https://img.shields.io/github/stars/kingsznhone/ncmdump.net?color=ffcb47&labelColor=black&style=flat-square
 [ncmdump-stars-link]: https://github.com/kingsznhone/ncmdump.net/network/stargazers
 [ncmdump-license-shield]: https://img.shields.io/github/license/kingsznhone/ncmdump.net?labelColor=black&style=flat-square
