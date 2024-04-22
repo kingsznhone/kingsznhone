@@ -10,6 +10,7 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 [![][github-follower-sheild]][github-follower-link]
 [![][github-star-sheild]][github-star-link]
 [![][bilibili-shield]][bilibili-link]
+[![][telegram-shield]][telegram-link]
 
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -33,6 +34,8 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
 | [**🌎 VSOP2013.NET**][vsop2013-link]<br/> VSOP2013 Library For .NET Package. (NuGet, DLL) Highly Optimized and OOP <br/><br/>[![][vsop2013-stars-shield]][vsop2013-stars-link] [![][vsop2013-license-shield]][vsop2013-license-link]  [![][vsop2013-releasedate-shield]][vsop2013-releasedate-link] [![][vsop2013-nuget-shield]][vsop2013-nuget-link] [![][vsop2013-downloads-shield]][vsop2013-downloads-link] | [![][vsop2013-cover]][vsop2013-stars-link] |
 | [**🎶 NCMDump.NET**][ncmdump-link]<br/> Decipher .ncm file to mp3 & flac <br/><br/>[![][ncmdump-stars-shield]][ncmdump-stars-link] [![][ncmdump-license-shield]][ncmdump-license-link] [![][ncmdump-release-shield]][ncmdump-release-link] [![][ncmdump-releasedate-shield]][ncmdump-releasedate-link] [![][ncmdump-downloads-shield]][ncmdump-downloads-link] | [![][ncmdump-cover]][vsop2013-stars-link] |
+
+
 
 [electrical-weathering-link]: https://github.com/kingsznhone/Electrical-Weathering
 [electrical-weathering-cover]: https://raw.githubusercontent.com/kingsznhone/Electrical-Weathering/master/WeatheringSkia.png
@@ -77,6 +80,10 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 [github-follower-link]: https://github.com/kingsznhone
 [github-star-sheild]: https://img.shields.io/github/stars/kingsznhone?affiliations=OWNER&logo=github&style=flat-square
 [github-star-link]: https://github.com/kingsznhone
+
+
+[telegram-link]: https://t.me/+uJL8eqHZ3IgzYjJl
+[telegram-shield]: https://img.shields.io/badge/telegram-fff?logo=Telegram&logoColor=fff&color=55a2d5
 
 
 [bilibili-shield]: https://bilistats.lonelyion.com/followers?color=fb7299&label=followers&label_color=black&logo_color=white&style=flat-square&uid=2853155
