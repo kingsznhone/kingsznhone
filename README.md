@@ -82,7 +82,7 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 [github-star-link]: https://github.com/kingsznhone
 
 
-[telegram-link]: https://t.me/+uJL8eqHZ3IgzYjJl
+[telegram-link]: https://t.me/+WLYs1rkaHyIzZGM9
 [telegram-shield]: https://img.shields.io/badge/telegram-fff?logo=Telegram&logoColor=fff&color=55a2d5
 
 
