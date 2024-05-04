@@ -51,7 +51,7 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 [electrical-weathering-downloads-link]: https://github.com/kingsznhone/Electrical-Weathering/releases
 
 [vsop2013-link]: https://github.com/kingsznhone/vsop2013.net
-[vsop2013-cover]: https://raw.githubusercontent.com/kingsznhone/VSOP2013.NET/main/Demo.png
+[vsop2013-cover]: https://raw.githubusercontent.com/kingsznhone/VSOP2013.NET/main/README/Demo.png
 [vsop2013-stars-shield]: https://img.shields.io/github/stars/kingsznhone/vsop2013.net?color=ffcb47&labelColor=black&style=flat-square
 [vsop2013-stars-link]: https://github.com/kingsznhone/vsop2013.net/stargazers
 [vsop2013-license-shield]: https://img.shields.io/github/license/kingsznhone/vsop2013.net?labelColor=black&style=flat-square
