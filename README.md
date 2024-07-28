@@ -32,10 +32,26 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 | ![][h-other]    | ![][other-chatgpt] ![][other-azure] ![][other-huggingface] ![][other-nginx] ![][other-cloudflare] ![][other-gee] ![][other-x64dbg]  ![][other-ida]                                              |
 
 ### ⭐️ Projects
-| [**🖼️ Electrical Weathering**][electrical-weathering-link]<br/> A weared meme like a medal. An internet veteran medal. <br/><br/> [![][electrical-weathering-stars-shield]][electrical-weathering-stars-link] [![][electrical-weathering-license-shield]][electrical-weathering-license-link] [![][electrical-weathering-release-shield]][electrical-weathering-release-link] [![][electrical-weathering-releasedate-shield]][electrical-weathering-releasedate-link] [![][electrical-weathering-downloads-shield]][electrical-weathering-downloads-link] | [![][electrical-weathering-cover]][electrical-weathering-stars-link]   |
+| [**💾 FastLZMA2Net**][fastlzma2net-link]<br/> A weared meme like a medal. An internet veteran medal. <br/><br/> [![][fastlzma2net-stars-shield]][fastlzma2net-stars-link] [![][fastlzma2net-license-shield]][fastlzma2net-license-link] [![][fastlzma2net-release-shield]][fastlzma2net-release-link] [![][fastlzma2net-releasedate-shield]][fastlzma2net-releasedate-link] [![][fastlzma2net-nuget-shield]][fastlzma2net-nuget-link] [![][fastlzma2net-downloads-shield]][fastlzma2net-downloads-link] | <img src="https://raw.githubusercontent.com/kingsznhone/FastLZMA2Net/main/readme/benchmark.png" alt="electrical-weathering-cover" width="1000">   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
-| [**🌎 VSOP2013.NET**][vsop2013-link]<br/> VSOP2013 Library For .NET Package. (NuGet, DLL) Highly Optimized and OOP <br/><br/>[![][vsop2013-stars-shield]][vsop2013-stars-link] [![][vsop2013-license-shield]][vsop2013-license-link]  [![][vsop2013-releasedate-shield]][vsop2013-releasedate-link] [![][vsop2013-nuget-shield]][vsop2013-nuget-link] [![][vsop2013-downloads-shield]][vsop2013-downloads-link] | [![][vsop2013-cover]][vsop2013-stars-link] |
-| [**🎶 NCMDump.NET**][ncmdump-link]<br/> Decipher .ncm file to mp3 & flac <br/><br/>[![][ncmdump-stars-shield]][ncmdump-stars-link] [![][ncmdump-license-shield]][ncmdump-license-link] [![][ncmdump-release-shield]][ncmdump-release-link] [![][ncmdump-releasedate-shield]][ncmdump-releasedate-link] [![][ncmdump-downloads-shield]][ncmdump-downloads-link] | [![][ncmdump-cover]][vsop2013-stars-link] |
+| [**🖼️ Electrical Weathering**][electrical-weathering-link]<br/> Fast LZMA2 Wrapper for .NET <br/><br/> [![][electrical-weathering-stars-shield]][electrical-weathering-stars-link] [![][electrical-weathering-license-shield]][electrical-weathering-license-link] [![][electrical-weathering-release-shield]][electrical-weathering-release-link] [![][electrical-weathering-releasedate-shield]][electrical-weathering-releasedate-link] [![][electrical-weathering-downloads-shield]][electrical-weathering-downloads-link] | <img src="https://raw.githubusercontent.com/kingsznhone/Electrical-Weathering/master/WeatheringSkia.png" alt="electrical-weathering-cover" width="1000">   |
+| [**🌎 VSOP2013.NET**][vsop2013-link]<br/> VSOP2013 Library For .NET Package. (NuGet, DLL) Highly Optimized and OOP <br/><br/>[![][vsop2013-stars-shield]][vsop2013-stars-link] [![][vsop2013-license-shield]][vsop2013-license-link]  [![][vsop2013-releasedate-shield]][vsop2013-releasedate-link] [![][vsop2013-nuget-shield]][vsop2013-nuget-link] [![][vsop2013-downloads-shield]][vsop2013-downloads-link] | <img src="https://raw.githubusercontent.com/kingsznhone/VSOP2013.NET/main/README/Demo.png" alt="electrical-weathering-cover" width="1000"> |
+| [**🎶 NCMDump.NET**][ncmdump-link]<br/> Decipher .ncm file to mp3 & flac <br/><br/>[![][ncmdump-stars-shield]][ncmdump-stars-link] [![][ncmdump-license-shield]][ncmdump-license-link] [![][ncmdump-release-shield]][ncmdump-release-link] [![][ncmdump-releasedate-shield]][ncmdump-releasedate-link] [![][ncmdump-downloads-shield]][ncmdump-downloads-link] | <img src="https://raw.githubusercontent.com/kingsznhone/NCMDump.NET/main/README/light.png" alt="electrical-weathering-cover" width="1000"> |
+
+[fastlzma2net-link]: https://github.com/kingsznhone/FastLZMA2Net
+[fastlzma2net-cover]: https://raw.githubusercontent.com/kingsznhone/FastLZMA2Net/main/readme/benchmark.png
+[fastlzma2net-stars-shield]: https://img.shields.io/github/stars/kingsznhone/FastLZMA2Net?color=ffcb47&labelColor=black&style=flat-square
+[fastlzma2net-stars-link]: https://github.com/kingsznhone/FastLZMA2Net/stargazers
+[fastlzma2net-license-shield]: https://img.shields.io/github/license/kingsznhone/FastLZMA2Net?labelColor=black&style=flat-square
+[fastlzma2net-license-link]: https://github.com/kingsznhone/FastLZMA2Net/blob/main/LICENSE
+[fastlzma2net-release-shield]: https://img.shields.io/github/v/release/kingsznhone/FastLZMA2Net?color=369eff&labelColor=black&logo=github&style=flat-square&include_prereleases
+[fastlzma2net-release-link]: https://github.com/kingsznhone/FastLZMA2Net/releases
+[fastlzma2net-releasedate-shield]: https://img.shields.io/github/release-date-pre/kingsznhone/FastLZMA2Net?labelColor=black&style=flat-square
+[fastlzma2net-releasedate-link]: https://github.com/kingsznhone/FastLZMA2Net/releases
+[fastlzma2net-nuget-shield]:https://img.shields.io/nuget/v/FastLZMA2Net?style=flat-square&labelColor=000000
+[fastlzma2net-nuget-link]:https://www.nuget.org/packages/FastLZMA2Net/
+[fastlzma2net-downloads-shield]: https://img.shields.io/github/downloads/kingsznhone/FastLZMA2Net/total?labelColor=black&style=flat-square
+[fastlzma2net-downloads-link]: https://github.com/kingsznhone/FastLZMA2Net/releases
 
 
 
