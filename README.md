@@ -6,6 +6,8 @@
 
 A Internet Fundamentalists. Full Stack Developer interested in multiple directions. 
 
+![Visitor Count](https://profile-counter.glitch.me/kingsznhone/count.svg)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingsznhone&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsznhone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
