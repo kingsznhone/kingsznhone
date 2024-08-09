@@ -9,7 +9,11 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 ![Visitor Count](https://profile-counter.glitch.me/kingsznhone/count.svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingsznhone&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsznhone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hack Together](./hack-finisher.png)](https://www.credly.com/badges/450a47f1-703f-4adf-aa17-88cf5c26009c/public_url)
+
 
 [![][github-follower-sheild]][github-follower-link]
 [![][github-star-sheild]][github-star-link]
