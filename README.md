@@ -84,7 +84,7 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 [vsop2013-releasedate-link]: https://github.com/kingsznhone/vsop2013.net/releases
 [vsop2013-nuget-shield]:https://img.shields.io/nuget/v/VSOP2013.NET?style=flat-square&labelColor=000000
 [vsop2013-nuget-link]:https://www.nuget.org/packages/VSOP2013.NET/
-[vsop2013-downloads-shield]: https://img.shields.io/nuget/dt/VSOP2013.NET?style=flat-square&labelColor=000000
+[vsop2013-downloads-shield]: https://img.shields.io/nuget/dt/VSOP2013.NET?style=flat-square&labelColor=000000&logo=nuget
 [vsop2013-downloads-link]: https://www.nuget.org/packages/VSOP2013.NET/
 
 [ncmdump-link]: https://github.com/kingsznhone/ncmdump.net
