@@ -6,7 +6,7 @@
 
 A Internet Fundamentalists. Full Stack Developer interested in multiple directions. 
 
-![Skills](https://skillicons.dev/icons?i=azure,aws,bootstrap,github,c,cpp,cs,fortran,php,py,pytorch,powershell,cloudflare,html,js,ts,css,express,jquery,nodejs,npm,pnpm,postman,vue,md,regex,bash,docker,git,mysql,sqlite,redis,windows,linux,ubuntu,nginx,vscode,visualstudio,pycharm)
+![Skills](https://skillicons.dev/icons?i=azure,aws,bootstrap,github,c,cpp,cs,fortran,php,py,pytorch,powershell,cloudflare,html,js,ts,css,express,jquery,nodejs,npm,pnpm,postman,vue,md,regex,bash,docker,git,mysql,sqlite,redis,windows,linux,ubuntu,nginx,vscode,visualstudio.unity,pycharm)
 
 ![Visitor Count](https://profile-counter.glitch.me/kingsznhone/count.svg)
 
