@@ -6,11 +6,14 @@
 
 A Internet Fundamentalists. Full Stack Developer interested in multiple directions. 
 
+[![][github-follower-sheild]][github-follower-link]
+[![][github-star-sheild]][github-star-link]
+[![][bilibili-shield]][bilibili-link]
+[![][telegram-shield]][telegram-link]
+
 ![Skills](https://skillicons.dev/icons?i=azure,aws,bootstrap,github,c,cpp,cs,fortran,php,py,pytorch,powershell,cloudflare,html,js,ts,css,express,jquery,nodejs,npm,pnpm,postman,vue,md,regex,bash,docker,git,mysql,sqlite,redis,windows,linux,ubuntu,nginx,vscode,visualstudio,unity,pycharm)
 
 ![Visitor Count](https://profile-counter.glitch.me/kingsznhone/count.svg)
-
-
 
 <a href="https://github-readme-stats-one-bice.vercel.app/api?username=kingsznhone&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=kingsznhone&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="kingsznhone's GitHub stats" height="185px">
@@ -22,10 +25,7 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 [![Hack Together](./hack-finisher.png)](https://www.credly.com/badges/450a47f1-703f-4adf-aa17-88cf5c26009c/public_url)
 
 
-[![][github-follower-sheild]][github-follower-link]
-[![][github-star-sheild]][github-star-link]
-[![][bilibili-shield]][bilibili-link]
-[![][telegram-shield]][telegram-link]
+
 
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
