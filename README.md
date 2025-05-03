@@ -6,11 +6,18 @@
 
 A Internet Fundamentalists. Full Stack Developer interested in multiple directions. 
 
+![Skills](https://skillicons.dev/icons?i=azure,aws,bootstrap,github,c,cpp,cs,fortran,php,py,pytorch,powershell,cloudflare,html,js,ts,css,express,jquery,nodejs,npm,pnpm,postman,vue,md,regex,bash,docker,git,mysql,sqlite,redis,windows,linux,ubuntu,nginx,vscode,visualstudio,pycharm)
+
 ![Visitor Count](https://profile-counter.glitch.me/kingsznhone/count.svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingsznhone&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsznhone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github-readme-stats-one-bice.vercel.app/api?username=kingsznhone&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=kingsznhone&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="kingsznhone's GitHub stats" height="185px">
+</a>
+<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kingsznhone&layout=compact&langs_count=6&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kingsznhone&layout=compact&langs_count=6&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Top Langs" height="185px">
+</a>
 
 [![Hack Together](./hack-finisher.png)](https://www.credly.com/badges/450a47f1-703f-4adf-aa17-88cf5c26009c/public_url)
 
