@@ -16,10 +16,11 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 ![Visitor Count](https://profile-counter.glitch.me/kingsznhone/count.svg)
 
 <a href="https://github-readme-stats-one-bice.vercel.app/api?username=kingsznhone&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
-  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=kingsznhone&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="kingsznhone's GitHub stats" height="185px">
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=kingsznhone&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="kingsznhone's GitHub stats" 
+ height="160px">
 </a>
 <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kingsznhone&layout=compact&langs_count=6&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kingsznhone&layout=compact&langs_count=6&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Top Langs" height="185px">
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kingsznhone&layout=compact&langs_count=6&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Top Langs"  height="160px">
 </a>
 
 [![Hack Together](./hack-finisher.png)](https://www.credly.com/badges/450a47f1-703f-4adf-aa17-88cf5c26009c/public_url)
