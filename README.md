@@ -36,14 +36,14 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 
 ### 💫 Dev Stack
 
-| ![][h-language] | ![][language-csharp]  ![][language-python] ![][language-cpp] ![][language-asm] ![][language-cuda] ![][language-js] ![][language-php]   ![][language-fortran]             |
+| ![][h-language] | ![][language-csharp]  ![][language-python] ![][language-cpp] ![][language-asm] ![][language-cuda] ![][language-js] ![][language-php]  ![][language-fortran]             |
 | :-------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![][h-framework]| ![][framework-aspdotnet] ![][framework-wpf] ![][framework-bootstrap] ![][framework-vue] ![][framework-torch]  ![][framework-wordpress]                                   |
 | ![][h-ide]      | ![][ide-visualstudio] ![][ide-vscode]  ![][ide-pycharm]  ![][ide-unity]                                                                                                  |
 | ![][h-os]       | ![][os-win] ![][os-wsl] ![][os-hyperv] ![][os-ubuntu] ![][os-kali]                                                                                                                      |
 | ![][h-shell]    | ![][shell-terminal] ![][shell-bash]                                                                                                                                      |
 | ![][h-database] |  ![][database-sqlite] ![][database-sqlserver] ![][database-mysql] ![][database-mariadb]                                                                                  |
-| ![][h-other]    | ![][other-chatgpt] ![][other-azure] ![][other-huggingface] ![][other-nginx] ![][other-cloudflare] ![][other-gee] ![][other-x64dbg]  ![][other-ida]                                              |
+| ![][h-other]    |  ![][other-azure] ![][other-huggingface] ![][other-nginx] ![][other-cloudflare] ![][other-gee] ![][other-x64dbg]  ![][other-ida]                                              |
 
 ### ⭐️ Projects
 | [**💾 FastLZMA2Net**][fastlzma2net-link]<br/> Fast LZMA2 Wrapper for .NET <br/><br/> [![][fastlzma2net-stars-shield]][fastlzma2net-stars-link] [![][fastlzma2net-license-shield]][fastlzma2net-license-link] [![][fastlzma2net-release-shield]][fastlzma2net-release-link] [![][fastlzma2net-releasedate-shield]][fastlzma2net-releasedate-link] [![][fastlzma2net-nuget-shield]][fastlzma2net-nuget-link] [![][fastlzma2net-downloads-shield]][fastlzma2net-downloads-link] | <img src="https://raw.githubusercontent.com/kingsznhone/FastLZMA2Net/main/readme/benchmark.png" alt="electrical-weathering-cover" width="1000">   |
