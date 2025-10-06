@@ -2,9 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/kingsznhone/kingsznhone/main/header.png">
 
+
 <h1>Hi there, I'm 🤣👉🤡ZNH</h1>
 
 A Internet Fundamentalists. Full Stack Developer interested in multiple directions. 
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=moonlight&quote=Heavy%20is%20the%20crown&border=true&author=Linkin%20Park
+)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![][github-follower-sheild]][github-follower-link]
 [![][github-star-sheild]][github-star-link]
