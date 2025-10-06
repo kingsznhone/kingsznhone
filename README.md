@@ -13,9 +13,8 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 
 ![Skills](https://skillicons.dev/icons?i=azure,aws,bootstrap,github,c,cpp,cs,fortran,php,py,pytorch,powershell,cloudflare,html,js,ts,css,express,jquery,nodejs,npm,pnpm,postman,vue,md,regex,bash,docker,git,mysql,sqlite,redis,windows,linux,ubuntu,nginx,vscode,visualstudio,unity,pycharm)
 
-![Visitor Count](https://profile-counter.glitch.me/kingsznhone/count.svg)
 
-<a href="https://github-readme-stats-one-bice.vercel.app/api?username=kingsznhone&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
+<a href="https://github-readme-stats-one-bice.vercel.app/api?username=kingsznhone&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&show=prs_merged_percentage#gh-light-mode-only" target="_blank">
   <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=kingsznhone&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="kingsznhone's GitHub stats" 
  height="160px">
 </a>
