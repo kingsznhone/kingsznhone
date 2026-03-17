@@ -53,6 +53,7 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 ### ⭐️ Projects
 | [**💾 FastLZMA2Net**][fastlzma2net-link]<br/> Fast LZMA2 Wrapper for .NET <br/><br/> [![][fastlzma2net-stars-shield]][fastlzma2net-stars-link] [![][fastlzma2net-license-shield]][fastlzma2net-license-link] [![][fastlzma2net-release-shield]][fastlzma2net-release-link] [![][fastlzma2net-releasedate-shield]][fastlzma2net-releasedate-link] [![][fastlzma2net-nuget-shield]][fastlzma2net-nuget-link] [![][fastlzma2net-downloads-shield]][fastlzma2net-downloads-link] | <img src="https://raw.githubusercontent.com/kingsznhone/FastLZMA2Net/main/readme/benchmark.png" alt="electrical-weathering-cover" width="1000">   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
+| [**📀 BluraybackupEx**][BluraybackupEx-link]<br/> Backup your Bluray Disc <br/><br/> [![][BluraybackupEx-stars-shield]][BluraybackupEx-stars-link] [![][BluraybackupEx-license-shield]][BluraybackupEx-license-link] [![][BluraybackupEx-release-shield]][BluraybackupEx-release-link] [![][BluraybackupEx-releasedate-shield]][BluraybackupEx-releasedate-link] | <img src="https://raw.githubusercontent.com/kingsznhone/BluraybackupEx/main/readme/cover.jpg" alt="electrical-weathering-cover" width="1000">  |
 | [**🖼️ Electrical Weathering**][electrical-weathering-link]<br/>  A weared meme like a medal. An internet veteran medal. <br/><br/> [![][electrical-weathering-stars-shield]][electrical-weathering-stars-link] [![][electrical-weathering-license-shield]][electrical-weathering-license-link] [![][electrical-weathering-release-shield]][electrical-weathering-release-link] [![][electrical-weathering-releasedate-shield]][electrical-weathering-releasedate-link] [![][electrical-weathering-downloads-shield]][electrical-weathering-downloads-link] | <img src="https://raw.githubusercontent.com/kingsznhone/Electrical-Weathering/master/WeatheringSkia.png" alt="electrical-weathering-cover" width="1000">   |
 | [**🌎 VSOP2013.NET**][vsop2013-link]<br/> VSOP2013 Library For .NET Package. (NuGet, DLL) Highly Optimized and OOP <br/><br/>[![][vsop2013-stars-shield]][vsop2013-stars-link] [![][vsop2013-license-shield]][vsop2013-license-link]  [![][vsop2013-releasedate-shield]][vsop2013-releasedate-link] [![][vsop2013-nuget-shield]][vsop2013-nuget-link] [![][vsop2013-downloads-shield]][vsop2013-downloads-link] | <img src="https://raw.githubusercontent.com/kingsznhone/VSOP2013.NET/main/README/Demo.png" alt="electrical-weathering-cover" width="1000"> |
 | [**🎶 NCMDump.NET**][ncmdump-link]<br/> Decipher .ncm file to mp3 & flac <br/><br/>[![][ncmdump-stars-shield]][ncmdump-stars-link] [![][ncmdump-license-shield]][ncmdump-license-link] [![][ncmdump-release-shield]][ncmdump-release-link] [![][ncmdump-releasedate-shield]][ncmdump-releasedate-link] [![][ncmdump-downloads-shield]][ncmdump-downloads-link] | <img src="https://raw.githubusercontent.com/kingsznhone/NCMDump.NET/main/README/light.png" alt="electrical-weathering-cover" width="1000"> |
@@ -72,6 +73,16 @@ A Internet Fundamentalists. Full Stack Developer interested in multiple directio
 [fastlzma2net-downloads-shield]:https://img.shields.io/nuget/dt/FastLZMA2Net?style=flat-square&logo=nuget&labelColor=black
 [fastlzma2net-downloads-link]:https://www.nuget.org/packages/FastLZMA2Net
 
+[BluraybackupEx-link]: https://github.com/kingsznhone/BluraybackupEx
+[BluraybackupEx-cover]: https://raw.githubusercontent.com/kingsznhone/BluraybackupEx/main/readme/cover.jpg
+[BluraybackupEx-stars-shield]: https://img.shields.io/github/stars/kingsznhone/BluraybackupEx?color=ffcb47&labelColor=black&style=flat-square
+[BluraybackupEx-stars-link]: https://github.com/kingsznhone/BluraybackupEx/stargazers
+[BluraybackupEx-license-shield]: https://img.shields.io/github/license/kingsznhone/BluraybackupEx?labelColor=black&style=flat-square
+[BluraybackupEx-license-link]: https://github.com/kingsznhone/BluraybackupEx/blob/main/LICENSE
+[BluraybackupEx-release-shield]: https://img.shields.io/github/v/release/kingsznhone/BluraybackupEx?color=369eff&labelColor=black&logo=github&style=flat-square&include_prereleases
+[BluraybackupEx-release-link]: https://github.com/kingsznhone/BluraybackupEx/releases
+[BluraybackupEx-releasedate-shield]: https://img.shields.io/github/release-date-pre/kingsznhone/BluraybackupEx?labelColor=black&style=flat-square
+[BluraybackupEx-releasedate-link]: https://github.com/kingsznhone/BluraybackupEx/releases
 
 
 [electrical-weathering-link]: https://github.com/kingsznhone/Electrical-Weathering
