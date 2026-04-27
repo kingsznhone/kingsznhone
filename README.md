@@ -7,7 +7,7 @@
 
 An Internet Fundamentalists. Full Stack Developer interested in multiple directions. 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=moonlight&quote=Heavy%20is%20the%20crown&border=true&author=Linkin%20Park
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=moonlight&quote=Heavy%20is%20the%20crown&border=true&author=.
 )](https://github.com/piyushsuthar/github-readme-quotes)
 
 <img src="https://profile-counter.deno.dev/kingsznhone/count.svg" alt="Key:: Visitor's Count" />
