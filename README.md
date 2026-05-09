@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/kingsznhone/kingsznhone/main/header.png">
 
 
-<h1>Hi there, I'm 🤣👉🤡ZNH</h1>
+<h1>Hi, This is 🤣👉🤡ZNH</h1>
 
 An Internet Fundamentalists. Full Stack Developer interested in multiple directions. 
 
