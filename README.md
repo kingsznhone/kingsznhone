@@ -20,12 +20,12 @@ An Internet Fundamentalists. Full Stack Developer interested in multiple directi
 ![Skills](https://skillicons.dev/icons?i=aws,azure,bash,bootstrap,c,cloudflare,cpp,cs,css,docker,dotnet,express,fastapi,fortran,git,github,html,js,jquery,linux,md,mysql,nginx,nodejs,npm,pnpm,php,postman,powershell,py,pycharm,pytorch,rabbitmq,react,redis,regex,rust,sqlite,ts,ubuntu,unity,visualstudio,vscode,vite,vue,windows,wordpress)
 
 
-<a href="https://github-readme-stats-one-bice.vercel.app/api?username=kingsznhone&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
-  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=kingsznhone&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="kingsznhone's GitHub stats" 
+<a href="https://github-stats-extended.vercel.app/api?username=kingsznhone&show_icons=true&include_all_commits=true&theme=shadow_blue" target="_blank">
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=kingsznhone&show_icons=true&include_all_commits=true&theme=shadow_blue" alt="kingsznhone's GitHub stats" 
  height="160px">
 </a>
-<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kingsznhone&layout=compact&langs_count=6&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kingsznhone&layout=compact&langs_count=6&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Top Langs"  height="160px">
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=kingsznhone&layout=compact&langs_count=6&theme=shadow_blue">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=kingsznhone&layout=compact&langs_count=6&theme=shadow_blue" alt="Top Langs"  height="160px">
 </a>
 
 [![Hack Together](./hack-finisher.png)](https://www.credly.com/badges/450a47f1-703f-4adf-aa17-88cf5c26009c/public_url)
