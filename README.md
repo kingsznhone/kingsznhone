@@ -10,8 +10,8 @@ An Internet Fundamentalists. Full Stack Developer interested in multiple directi
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=moonlight&quote=Heavy%20is%20the%20crown&border=true&author=.
 )](https://github.com/piyushsuthar/github-readme-quotes)
 
-<img src="https://profile-counter.deno.dev/kingsznhone/count.svg" alt="Key:: Visitor's Count" />
 
+[![][github-visitor-shield]][github-visitor-link]
 [![][github-follower-sheild]][github-follower-link]
 [![][github-star-sheild]][github-star-link]
 [![][bilibili-shield]][bilibili-link]
@@ -136,6 +136,8 @@ An Internet Fundamentalists. Full Stack Developer interested in multiple directi
 [ncmdump-downloads-shield]: https://img.shields.io/github/downloads/kingsznhone/ncmdump.net/total?labelColor=black&style=flat-square
 [ncmdump-downloads-link]: https://github.com/kingsznhone/ncmdump.net/releases
 
+[github-visitor-shield]: https://komarev.com/ghpvc/?username=kingsznhone&color=brightgreen&style=flat-square
+[github-visitor-link]: https://github.com/kingsznhone
 [github-follower-sheild]: https://img.shields.io/github/followers/kingsznhone?logo=github&style=flat-square
 [github-follower-link]: https://github.com/kingsznhone
 [github-star-sheild]: https://img.shields.io/github/stars/kingsznhone?affiliations=OWNER&logo=github&style=flat-square
