@@ -41,14 +41,14 @@ An Internet Fundamentalists. Full Stack Developer interested in multiple directi
 
 ### 💫 Dev Stack
 
-| ![][h-language] | ![][language-csharp]  ![][language-python] ![][language-cpp] ![][language-asm] ![][language-cuda] ![][language-js] ![][language-php]  ![][language-fortran]             |
+| ![][h-language] | ![][language-csharp]  ![][language-python] ![][language-cpp] ![][language-asm] ![][language-cuda] ![][language-ts] ![][language-php]  ![][language-fortran]             |
 | :-------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![][h-framework]| ![][framework-aspdotnet] ![][framework-wpf] ![][framework-bootstrap] ![][framework-vue] ![][framework-torch]  ![][framework-wordpress]                                   |
-| ![][h-ide]      | ![][ide-visualstudio] ![][ide-vscode]  ![][ide-pycharm]  ![][ide-unity]                                                                                                  |
+| ![][h-ide]      | ![][ide-visualstudio] ![][ide-vscode]  ![][ide-unity]                                                                                                  |
 | ![][h-os]       | ![][os-win] ![][os-wsl] ![][os-hyperv] ![][os-ubuntu] ![][os-kali]                                                                                                                      |
 | ![][h-shell]    | ![][shell-terminal] ![][shell-bash]                                                                                                                                      |
 | ![][h-database] |  ![][database-sqlite] ![][database-sqlserver] ![][database-mysql] ![][database-mariadb]                                                                                  |
-| ![][h-other]    |  ![][other-azure] ![][other-huggingface] ![][other-nginx] ![][other-cloudflare] ![][other-gee] ![][other-x64dbg]  ![][other-ida]                                              |
+| ![][h-other]    |  ![][other-azure] ![][other-huggingface] ![][other-nginx] ![][other-cloudflare] ![][other-x64dbg]  ![][other-ida]                                              |
 
 ### ⭐️ Projects
 | [**💾 FastLZMA2Net**][fastlzma2net-link]<br/> Fast LZMA2 Wrapper for .NET <br/><br/> [![][fastlzma2net-stars-shield]][fastlzma2net-stars-link] [![][fastlzma2net-license-shield]][fastlzma2net-license-link] [![][fastlzma2net-release-shield]][fastlzma2net-release-link] [![][fastlzma2net-releasedate-shield]][fastlzma2net-releasedate-link] [![][fastlzma2net-nuget-shield]][fastlzma2net-nuget-link] [![][fastlzma2net-downloads-shield]][fastlzma2net-downloads-link]                                                                               | <img src="https://raw.githubusercontent.com/kingsznhone/FastLZMA2Net/main/readme/benchmark.png" alt="electrical-weathering-cover" width="1000">          |
@@ -163,11 +163,11 @@ An Internet Fundamentalists. Full Stack Developer interested in multiple directi
 [language-cpp]: https://img.shields.io/badge/C%2FC%2B%2B-fff?style=flat-square&logo=cplusplus&logoColor=ffffff&labelColor=%2300599C&color=%2300599C
 [language-cuda]: https://img.shields.io/badge/CUDA-fff?style=flat-square&logo=nvidia&logoColor=ffffff&labelColor=76B900&color=76B900
 [language-csharp]: https://img.shields.io/badge/C%23-000?style=flat-square&logo=dotnet&logoColor=ffffff&labelColor=512BD4&color=512BD4
-[language-js]: https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=ffffff&labelColor=F7DF1E&color=F7DF1E
+[language-ts]: https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=3178C6&color=3178C6
 [language-python]: https://img.shields.io/badge/python-fff?style=flat-square&logo=python&logoColor=ffffff&labelColor=3776AB&color=3776AB
 [language-php]: https://img.shields.io/badge/PHP-fff?style=flat-square&logo=php&logoColor=ffffff&labelColor=777BB4&color=777BB4
 [language-asm]: https://img.shields.io/badge/x86%2F64%20Assembly-fff?style=flat-square&logo=intel&logoColor=ffffff&labelColor=0071C5&color=0071C5
-[language-fortran]: https://img.shields.io/badge/Fortran-fff?style=flat-square&logo=fortran&logoColor=ffffff&labelColor=734F96&color=734F96
+[language-fortran]: https://img.shields.io/badge/Fortran-fff?style=flat-square&logo=fortran&logoColor=ffffff&labelColor=744E97&color=744E97
 
 [framework-bootstrap]: https://img.shields.io/badge/-Bootstrap-000?style=flat-square&logo=bootstrap&logoColor=fff&labelColor=7952B3&color=7952B3
 [framework-aspdotnet]: https://img.shields.io/badge/ASP_.NET_Core-000?style=flat-square&logo=dotnet&logoColor=ffffff&labelColor=%23512BD4&color=%23512BD4
@@ -184,23 +184,21 @@ An Internet Fundamentalists. Full Stack Developer interested in multiple directi
 
 [ide-visualstudio]: https://img.shields.io/badge/Visual%20Studio-fff?style=flat-square&logo=visualstudio&logoColor=ffffff&labelColor=5C2D91&color=5C2D91
 [ide-vscode]: https://img.shields.io/badge/-VS_Code-fff?style=flat-square&logo=visualstudiocode&logoColor=ffffff&labelColor=007ACC&color=007ACC
-[ide-pycharm]: https://img.shields.io/badge/-Pycharm-fff?style=flat-square&logo=pycharm&logoColor=000000&labelColor=def259&color=def259
 [ide-unity]: https://img.shields.io/badge/Unity-fff?style=flat-square&logo=unity&logoColor=ffffff&labelColor=000000&color=000000
 
 [other-chatgpt]: https://img.shields.io/badge/-ChatGPT-000?style=flat-square&logoColor=white&logo=openai
-[other-huggingface]: https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-fff?style=flat-square&labelColor=C4F8FF&color=C4F8FF
+[other-huggingface]: https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-fff?style=flat-square&labelColor=FFD21E&color=FFD21E
 [other-azure]: https://img.shields.io/badge/Azure-000?style=flat-square&logo=microsoftazure&logoColor=ffffff&labelColor=0078D4&color=0078D4
 [other-x64dbg]: https://img.shields.io/badge/🖥️-x64dbg-000?style=flat-square&labelColor=000000&color=000000
 [other-ida]: https://img.shields.io/badge/🖥️-IDA-000?style=flat-square&labelColor=000000&color=000000
-[other-gee]: https://img.shields.io/badge/GEE-000?style=flat-square&logo=googleearthengine&logoColor=ffffff&labelColor=4285F4&color=4285F4
 [other-nginx]: https://img.shields.io/badge/-Nginx-000?style=flat-square&logo=nginx&labelColor=009639&color=009639
-[other-cloudflare]: https://img.shields.io/badge/Cloudflare-000?style=flat-square&logo=cloudflare&logoColor=ffffff&labelColor=F38020&color=F38020
+[other-cloudflare]: https://img.shields.io/badge/Cloudflare-000?style=flat-square&logo=cloudflare&logoColor=ffffff&labelColor=F6821F&color=F6821F
 
-[database-sqlserver]: https://img.shields.io/badge/SQL%20Server-000?style=flat-square&logo=microsoftsqlserver&logoColor=ffffff&labelColor=CC2927&color=CC2927
+[database-sqlserver]: https://img.shields.io/badge/SQL%20Server-000?style=flat-square&logo=microsoftsqlserver&logoColor=ffffff&labelColor=0078D4&color=0078D4
 [database-sqlite]: https://img.shields.io/badge/-SQLite-000?style=flat-squaree&logo=sqlite&labelColor=003B57&color=003B57
 [database-mysql]: https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=ffffff&labelColor=4479A1&color=4479A1
 [database-mariadb]: https://img.shields.io/badge/MariaDB-000?style=flat-square&logo=mariadb&logoColor=ffffff&labelColor=003545&color=003545
 
-[shell-terminal]: https://img.shields.io/badge/Powershell-fff?style=flat-square&logo=powershell&logoColor=ffffff&labelColor=5391FE&color=5391FE
-[shell-bash]: https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash&logoColor=ffffff&labelColor=000000&color=000000
+[shell-terminal]: https://img.shields.io/badge/Powershell-fff?style=flat-square&logo=powershell&logoColor=ffffff&labelColor=29415C&color=29415C
+[shell-bash]: https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash&logoColor=ffffff&labelColor=4EAA25&color=4EAA25
 
